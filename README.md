@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Hardik Gediya!</a></h1>
+<h1 align="center"> Hi 👋, I'm H@rdik Gediya!</a></h1>
 <h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
 
 
